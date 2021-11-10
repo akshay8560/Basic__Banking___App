@@ -31,8 +31,6 @@
 
 ------------------------------------------
 
-### Select User To Transfer Money
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Select%20a%20user%20to%20transfer%20money%20to.jpg" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -52,5 +50,4 @@
 ------------------------------------------
 
 
-### Project Explanation 
-Link https://www.youtube.com/watch?v=uBfr7uRkRb0
+
